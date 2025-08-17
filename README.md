@@ -1,18 +1,14 @@
 # Hi 👋, I'm Nitrosaccharose!
-
-大三双非本科一枚CSer，正在大力拓展各类技术栈！努力学习ing......欢迎与我分享交流关于计算机的所有一切！
+**你也可以叫我顾仝，这是我在网络上常用的昵称！**
 <br/>
+现已工作，不过依然在学习的路上，还是在进行努力的学习，想和我交流的伙伴们请联系我喔！！
 <br/>
-**找实习中， `全栈`/`后端`/`前端`/`运维`/`云原生` ，HR大大们可以与我交流！非常希望能够奉献自己的一份力量！**
-<br/>
+~~大四学生，正在大力拓展各类技术栈！努力学习ing......欢迎与我分享交流关于计算机的所有一切！~~
 <br/>
 ## 🤙 联系我
 <h3>📥 Email: 931911761@qq.com</h3>
-<br/>
 <h3>🐧 QQ: 931911761</h3>
-<br/>
 <h3>🗨️ WeChat: z931911761</h3>
-<br/>
 
 ## GitHub统计
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nitrosaccharose&show_icons=true&theme=radical)
@@ -26,7 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" width="52" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" />   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" width="52" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40"width="52" />
